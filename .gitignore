@@ -6,3 +6,5 @@ admin/
 
 # Vim Swap files
 .swp
+
+.sass-cache
