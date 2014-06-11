@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Rex Hoang -- Developer -- rexy.huuthinhhouse.com -- Singapore (from Hue, Vietnam)
+    Rex Hoang -- Developer -- rexy.me -- Singapore (from Hue, Vietnam)
     
     <name> -- <role> -- <twitter>
 
